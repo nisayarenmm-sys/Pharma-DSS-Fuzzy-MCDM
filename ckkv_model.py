@@ -1,5 +1,4 @@
 """
-İSTİNYE ÜNİVERSİTESİ - LİSANS BİTİRME PROJESİ
 Hayati İlaç Tedarik Zinciri Sorunları İçin Bulanık ÇKKV Modellemesi
 """
 
